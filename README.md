@@ -14,21 +14,17 @@ Antes de começar, verifique se você tem os seguintes requisitos instalados em 
 
 1. Clone o repositório do projeto:
 
-```bash
-git clone https://github.com/seu-usuario/mini-sistema-escolar.git
-```
+git clone https://github.com/LeonardoG0mes/Crud-com-o-Flask
 
 2. Acesse o diretório do projeto:
 
-```bash
 cd mini-sistema-escolar
-```
+
 
 3. Instale as dependências do projeto:
 
-```bash
-pip install -r requirements.txt
-```
+pip install flask
+
 
 4. Configure o banco de dados:
 
@@ -37,15 +33,12 @@ pip install -r requirements.txt
 
 5. Inicie a aplicação:
 
-```bash
 python app.py
-```
 
 6. Acesse a aplicação no seu navegador:
 
-```bash
 http://localhost:5000
-```
+
 
 ## Uso
 
@@ -58,12 +51,6 @@ A aplicação possui as seguintes funcionalidades:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request para melhorar o projeto.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
 
 Espero que este projeto seja útil para você! Em caso de dúvidas ou problemas, não hesite em entrar em contato.
 
